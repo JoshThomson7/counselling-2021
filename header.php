@@ -31,12 +31,12 @@
             <div class="pre__header">
                 <div class="max__width">
                     <ul class="contact">
-                        <li><i class="fa fa-phone"></i><a href="tel:01463782323">0123 456 789</a></li>
-                        <li><i class="fa fa-envelope"></i><a href="mailto:info@counselling.com">Email Us</a></li>
+                        <li><i class="fa fa-phone"></i><a href="tel:07462284649 ">07462284649 </a></li>
+                        <li><i class="fa fa-envelope"></i><a href="mailto:debbie-hague@virginmedia.com">Email</a></li>
                     </ul>
 
                     <div class="book_button">
-                        <a href="#" class="book">Book Appointment</a>
+                        <a href="/contact" class="book">Book Appointment</a>
                     </div>
                 </div>
             </div>

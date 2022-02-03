@@ -18,7 +18,7 @@ Icon Grid
         &.left { text-align:left;}
         &.right { text-align:right;}
 
-        article { padding:20px; color:inherit; max-width: 350px;
+        article { padding:20px; color:inherit;
             /* Full */
 
             &.full-width { width:percentage(1/1);}
@@ -58,7 +58,11 @@ Icon Grid
             h4 { font-size: 24px; margin-bottom: 10px; color: $primary;}
             p { font-size: 16px; line-height: 22px;}
 
-            a { color:$text;}
+            a { color:$text;
+                &:hover{
+                    h4{color: $secondary;}
+                }
+            }
         }
     }
 }

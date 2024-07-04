@@ -12,7 +12,7 @@ Feature
 */
 // Feature image
 $attachment_id = get_sub_field('feature_image');
-$feature_img = vt_resize($attachment_id,'' , 800, 600, true);
+$feature_img = vt_resize($attachment_id,'' , 600, 600, true);
 
 // Feature image align
 $feature_img_bg = '';

@@ -612,6 +612,13 @@ footer { padding: 0; position: relative;
                     }
                 }
 
+                &.logos{
+                    display: flex; align-items: center; justify-content: space-between; width: 33%;
+
+
+                    img{max-height: 120px;}
+                }
+
                 .contact{
                     a{
                         color: white; line-height: 24px;

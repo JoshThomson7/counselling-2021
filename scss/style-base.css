@@ -29437,12 +29437,9 @@ footer .footer__menus .max__width article.social p {
 }
 footer .footer__menus .max__width article.logos {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 33%;
 }
 footer .footer__menus .max__width article.logos img {
-  max-height: 120px;
+  max-width: 150px;
 }
 footer .footer__menus .max__width article .contact a {
   color: white;

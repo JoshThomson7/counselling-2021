@@ -33,8 +33,9 @@
 
                 </article>
 
-                <article>
+                <article class="logos">
                     <img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/BACP-registered-logo.jpeg" alt="BACP logo" style="padding: 10px; background: white;">
+                    <img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/timc.png" alt="TIMC logo" style="padding: 10px; background: white;">
                 </article>
 
             </div><!-- max__width -->
